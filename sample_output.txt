@@ -1,0 +1,426 @@
+Read Matrix with 10 nodes.
+Cost of a -> j is: 10
+Cost of a -> a is: 0
+Cost of [a, b, c, d, e, f, g, h, i, j] is: 10
+
+Enter an initial population size (Recommendation of 1000): 1000
+Enter the number of generations to test (Recommendation of 50): 50
+
+
+Genetic Algorithm Test with Population Size 1000 and 50 Generations
+--------------------------------------------------------------------
+
+Initial Population
+------------------
+Best Fit: 55
+Average Fitness: 89
+Crossing Over...
+Mutations: 112
+
+
+Generation 1
+--------------
+Best Fit: 55
+Average Fitness: 86
+Crossing Over...
+Mutations: 101
+
+
+Generation 2
+--------------
+Best Fit: 46
+Average Fitness: 83
+Crossing Over...
+Mutations: 106
+
+
+Generation 3
+--------------
+Best Fit: 37
+Average Fitness: 82
+Crossing Over...
+Mutations: 110
+
+
+Generation 4
+--------------
+Best Fit: 37
+Average Fitness: 81
+Crossing Over...
+Mutations: 93
+
+
+Generation 5
+--------------
+Best Fit: 37
+Average Fitness: 79
+Crossing Over...
+Mutations: 113
+
+
+Generation 6
+--------------
+Best Fit: 37
+Average Fitness: 79
+Crossing Over...
+Mutations: 98
+
+
+Generation 7
+--------------
+Best Fit: 37
+Average Fitness: 79
+Crossing Over...
+Mutations: 107
+
+
+Generation 8
+--------------
+Best Fit: 37
+Average Fitness: 78
+Crossing Over...
+Mutations: 117
+
+
+Generation 9
+--------------
+Best Fit: 37
+Average Fitness: 78
+Crossing Over...
+Mutations: 99
+
+
+Generation 10
+--------------
+Best Fit: 37
+Average Fitness: 78
+Crossing Over...
+Mutations: 98
+
+
+Generation 11
+--------------
+Best Fit: 37
+Average Fitness: 77
+Crossing Over...
+Mutations: 87
+
+
+Generation 12
+--------------
+Best Fit: 37
+Average Fitness: 76
+Crossing Over...
+Mutations: 86
+
+
+Generation 13
+--------------
+Best Fit: 37
+Average Fitness: 76
+Crossing Over...
+Mutations: 94
+
+
+Generation 14
+--------------
+Best Fit: 37
+Average Fitness: 76
+Crossing Over...
+Mutations: 102
+
+
+Generation 15
+--------------
+Best Fit: 10
+Average Fitness: 74
+Crossing Over...
+Mutations: 105
+
+
+Generation 16
+--------------
+Best Fit: 10
+Average Fitness: 74
+Crossing Over...
+Mutations: 88
+
+
+Generation 17
+--------------
+Best Fit: 10
+Average Fitness: 73
+Crossing Over...
+Mutations: 92
+
+
+Generation 18
+--------------
+Best Fit: 10
+Average Fitness: 72
+Crossing Over...
+Mutations: 106
+
+
+Generation 19
+--------------
+Best Fit: 10
+Average Fitness: 72
+Crossing Over...
+Mutations: 106
+
+
+Generation 20
+--------------
+Best Fit: 10
+Average Fitness: 70
+Crossing Over...
+Mutations: 108
+
+
+Generation 21
+--------------
+Best Fit: 10
+Average Fitness: 68
+Crossing Over...
+Mutations: 100
+
+
+Generation 22
+--------------
+Best Fit: 10
+Average Fitness: 65
+Crossing Over...
+Mutations: 104
+
+
+Generation 23
+--------------
+Best Fit: 10
+Average Fitness: 60
+Crossing Over...
+Mutations: 100
+
+
+Generation 24
+--------------
+Best Fit: 10
+Average Fitness: 55
+Crossing Over...
+Mutations: 96
+
+
+Generation 25
+--------------
+Best Fit: 10
+Average Fitness: 50
+Crossing Over...
+Mutations: 93
+
+
+Generation 26
+--------------
+Best Fit: 10
+Average Fitness: 43
+Crossing Over...
+Mutations: 103
+
+
+Generation 27
+--------------
+Best Fit: 10
+Average Fitness: 34
+Crossing Over...
+Mutations: 106
+
+
+Generation 28
+--------------
+Best Fit: 10
+Average Fitness: 23
+Crossing Over...
+Mutations: 96
+
+
+Generation 29
+--------------
+Best Fit: 10
+Average Fitness: 15
+Crossing Over...
+Mutations: 98
+
+
+Generation 30
+--------------
+Best Fit: 10
+Average Fitness: 14
+Crossing Over...
+Mutations: 105
+
+
+Generation 31
+--------------
+Best Fit: 10
+Average Fitness: 14
+Crossing Over...
+Mutations: 95
+
+
+Generation 32
+--------------
+Best Fit: 10
+Average Fitness: 14
+Crossing Over...
+Mutations: 101
+
+
+Generation 33
+--------------
+Best Fit: 10
+Average Fitness: 13
+Crossing Over...
+Mutations: 94
+
+
+Generation 34
+--------------
+Best Fit: 10
+Average Fitness: 13
+Crossing Over...
+Mutations: 102
+
+
+Generation 35
+--------------
+Best Fit: 10
+Average Fitness: 13
+Crossing Over...
+Mutations: 94
+
+
+Generation 36
+--------------
+Best Fit: 10
+Average Fitness: 13
+Crossing Over...
+Mutations: 116
+
+
+Generation 37
+--------------
+Best Fit: 10
+Average Fitness: 14
+Crossing Over...
+Mutations: 108
+
+
+Generation 38
+--------------
+Best Fit: 10
+Average Fitness: 14
+Crossing Over...
+Mutations: 118
+
+
+Generation 39
+--------------
+Best Fit: 10
+Average Fitness: 14
+Crossing Over...
+Mutations: 101
+
+
+Generation 40
+--------------
+Best Fit: 10
+Average Fitness: 13
+Crossing Over...
+Mutations: 85
+
+
+Generation 41
+--------------
+Best Fit: 10
+Average Fitness: 13
+Crossing Over...
+Mutations: 92
+
+
+Generation 42
+--------------
+Best Fit: 10
+Average Fitness: 13
+Crossing Over...
+Mutations: 97
+
+
+Generation 43
+--------------
+Best Fit: 10
+Average Fitness: 13
+Crossing Over...
+Mutations: 100
+
+
+Generation 44
+--------------
+Best Fit: 10
+Average Fitness: 13
+Crossing Over...
+Mutations: 100
+
+
+Generation 45
+--------------
+Best Fit: 10
+Average Fitness: 14
+Crossing Over...
+Mutations: 102
+
+
+Generation 46
+--------------
+Best Fit: 10
+Average Fitness: 13
+Crossing Over...
+Mutations: 93
+
+
+Generation 47
+--------------
+Best Fit: 10
+Average Fitness: 13
+Crossing Over...
+Mutations: 108
+
+
+Generation 48
+--------------
+Best Fit: 10
+Average Fitness: 14
+Crossing Over...
+Mutations: 105
+
+
+Generation 49
+--------------
+Best Fit: 10
+Average Fitness: 13
+Crossing Over...
+Mutations: 106
+
+
+Generation 50
+--------------
+Best Fit: 10
+Average Fitness: 13
+Crossing Over...
+Mutations: 112
+
+
+Results (Offspring of Generation 50)
+--------------------------------------
+Best Fit: 10
+Best Route: [d, e, f, g, h, i, j, a, b, c]
+
+Complete.
